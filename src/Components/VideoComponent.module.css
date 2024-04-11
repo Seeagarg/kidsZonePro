@@ -1,0 +1,20 @@
+.video_player{
+    min-height: 50vh;
+    overflow: hidden;
+    background-color: black;
+    position: relative;
+    margin-top:1%;
+}
+
+@media (max-width: 630px) {
+    .video_player{
+        min-height: 40vh;
+
+    }
+  }
+  @media (max-width: 500px) {
+    .video_player{
+
+    min-height: 30vh;
+
+    }}

@@ -1,0 +1,9 @@
+.title_container{
+    background-color: #1c1c1c;
+    margin-top: 3%;
+    border-radius: 12px;
+}
+.title{
+    color: white;
+    padding: 1rem;
+}
